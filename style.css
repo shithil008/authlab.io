@@ -1,0 +1,67 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.authlab-container {
+    background-color: #EDF2F7;
+    min-height: 500px;
+    max-height: auto;
+    
+}
+
+.authlab-container h3 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1.5;
+    color: #4A5568;
+}
+
+.authlab-container h1 {
+    font-weight: 700;
+    color: #4A5568;
+    font-size: 48px;
+}
+
+.authlab-container .meet-btn:hover {
+    background-color: rgba(0, 0, 0, 0.452);
+    color: rgb(255, 255, 255)!important;
+}
+
+iframe {
+    display: block;
+}
+.portfolio-title {
+    margin-bottom: 42px;
+    margin-top: 72px;
+}
+.team-portfolio-images img {
+    display: inline-block;
+    max-height: 100px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+
+.team-portfolio-text h4 {
+    padding-bottom: 4px;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.team-portfolio-text p {
+    color: rgb(35 35 35 / 90%);
+    font-size: 18px;
+}
+
+.team-portfolio-btn {
+    margin-bottom: 20px;
+}
+
+.pf-body {
+  background-color: #EDF2F7;
+}
+.pf-body:hover {
+    background-color: #D7ECFB;
+}
