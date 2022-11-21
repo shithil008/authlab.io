@@ -1,0 +1,126 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.authlab-container {
+    background-color: #EDF2F7;
+    min-height: 500px;
+    max-height: auto;
+    
+}
+
+.authlab-container h3 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1.5;
+    color: #4A5568;
+}
+
+.authlab-container h1 {
+    font-weight: 700;
+    color: #4A5568;
+    font-size: 48px;
+}
+
+.authlab-container .meet-btn:hover {
+    background-color: rgba(0, 0, 0, 0.452);
+    color: rgb(255, 255, 255)!important;
+}
+
+iframe {
+    display: block;
+}
+.portfolio-title {
+    margin-bottom: 42px;
+    margin-top: 72px;
+}
+.team-portfolio-images img {
+    display: inline-block;
+    max-height: 100px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+
+.team-portfolio-text h4 {
+    padding-bottom: 4px;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.team-portfolio-text p {
+    color: rgb(35 35 35 / 90%);
+    font-size: 18px;
+}
+
+.team-portfolio-btn {
+    margin-bottom: 20px;
+}
+
+.pf-body {
+  background-color: #EDF2F7;
+}
+.pf-body:hover {
+    background-color: #D7ECFB;
+}
+
+.team-photo img{
+    width: 80%;
+    border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.leader-position {
+    font-style: italic;
+}
+
+#authlab-glance {
+    background-color: #EDF2F7;
+}
+.glance-logo, .glance-title, .glance-body {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.glance-logo img {
+max-height: 58%;
+max-width: 65%;
+display: block;
+padding-top: 15px;
+padding-bottom: 10px;
+}
+.glance-title h1 {
+font-weight: 700;
+}
+
+footer {
+    overflow: hidden;
+}
+
+.authlab-footer {
+    background-color: #2D3748;
+}
+.social-icons {
+display: block;
+
+}
+.social-icons i {
+    background: #fff;
+    font-size: 28px;
+    height: 30px;
+    width: 30px;
+    padding: 8px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
